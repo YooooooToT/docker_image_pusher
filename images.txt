@@ -8,5 +8,6 @@ jxxghp/moviepilot:latest
 hslr/sun-panel:1.3.0
 neilpang/acme.sh:dev
 easychen/cookiecloud:latest
+b3log/siyuan:v3.0.17
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
