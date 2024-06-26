@@ -9,5 +9,7 @@ hslr/sun-panel:1.3.0
 neilpang/acme.sh:dev
 easychen/cookiecloud:latest
 b3log/siyuan:v3.0.17
+linuxserver/emby:4.8.8
+jellyfin/jellyfin:10.9.7
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
