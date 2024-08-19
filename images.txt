@@ -1,3 +1,4 @@
+difegue/lanraragi:v.0.9.21
 gotson/komga:1.11.2
 neilpang/acme.sh:latest
 fruitbars/simple-one-api
