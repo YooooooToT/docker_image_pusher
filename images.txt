@@ -1,4 +1,5 @@
-iyuucn/iyuuplus:latest
-fruitbars/simple-one-api
+ghcr.io/imagegenius/immich:latest
+redis
+tensorchord/pgvecto-rs:pg14-v0.2.0
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
