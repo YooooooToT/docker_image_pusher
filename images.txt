@@ -1,5 +1,3 @@
-gotson/komga:1.21.2
-redis
-tensorchord/pgvecto-rs:pg14-v0.2.0
+syncthing/syncthing:1.29.5
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
